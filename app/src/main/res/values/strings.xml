@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Download Manager</string>
+    <string name="title_activity_edit_download">EditDownload</string>
+</resources>
